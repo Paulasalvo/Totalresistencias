@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Paly
+ *
+ */
+module Resistencia {
+}
